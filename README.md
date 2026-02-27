@@ -190,7 +190,3 @@ npm start            # Serves frontend + backend from port 5000
 | `Ctrl + Y`  | Redo        |
 
 ---
-
-## 📝 License
-
-MIT License — feel free to use, modify, and distribute.
