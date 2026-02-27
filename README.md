@@ -1,4 +1,4 @@
-# CollabBoard — Real-Time Collaborative Whiteboard
+# DoodleNest — Real-Time Collaborative Whiteboard
 
 A full-stack MERN application enabling real-time collaborative whiteboard drawing, chat, screen sharing, and file sharing — inspired by Zoom + Miro.
 
