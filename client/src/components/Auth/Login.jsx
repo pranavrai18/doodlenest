@@ -32,7 +32,7 @@ const Login = () => {
             });
             google.accounts.id.renderButton(
                 document.getElementById('google-signin-btn'),
-                { theme: 'outline', size: 'large', width: '100%', text: 'signin_with', shape: 'pill' }
+                { theme: 'outline', size: 'large', width: 370, text: 'signin_with', shape: 'pill' }
             );
         }
     }, [handleGoogleResponse]);
